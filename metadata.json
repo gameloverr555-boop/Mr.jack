@@ -1,0 +1,6 @@
+{
+  "name": "GhostShield Browser",
+  "description": "Privacy browser with mock VPN proxy, integrated ad blocker, vanish incognito mode, QR scanner, and webpage prank editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
